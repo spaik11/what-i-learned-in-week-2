@@ -30,3 +30,9 @@ The project entailed copying three images with CSS. The three sections to copy w
 
 ---
 ### Copy-Calico
+I took the challenge of copying the website "The Office of Jason James". At first glance, I saw a few challenges that I wanted to learn from this website.
+* You are able to put dashes around a word (-Title -), by adjusting `margin-bottom-height` and moving the line up. 
+* To find more information on the website, you can "inspect" the page. You will find information on font, font-size, color, and more.
+
+---
+### CSS Boxes
