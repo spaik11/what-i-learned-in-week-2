@@ -35,4 +35,19 @@ I took the challenge of copying the website "The Office of Jason James". At firs
 * To find more information on the website, you can "inspect" the page. You will find information on font, font-size, color, and more.
 
 ---
-### CSS Boxes
+### CSS Boxes 
+There's an image of four red boxes with different borders around them. It was challenging at first but adjusting the `background-clip` and adjusting the `padding` did the trick.
+
+---
+### Human Resource Machine (HRM) & CSS Diner
+HRM is a challenging game that requires you to think outside the box. I like the build up of different tools and levels in the game. 
+
+CSS Diner teaches you how to target specific **CSS selectors**. The game teaches you different concepts while giving you a visual test.
+
+---
+### Intro to JavaScript (JS)
+JS gives a website or app the ability to "function". 
+* Variables are containers for storing data values.
+  * You can declare variables by using `let` or `const`.
+* JS primitive data types are:
+  * Strings, Numbers, Booleans, NaN, Null, Undefined.
