@@ -36,7 +36,7 @@ I took the challenge of copying the website "The Office of Jason James". At firs
 
 ---
 ### CSS Boxes 
-There's an image of four red boxes with different borders around them. It was challenging at first but adjusting the `background-clip` and adjusting the `padding` did the trick.
+There's an image of four red boxes with different borders around them that we have to replicate. It was challenging at first but adjusting the `background-clip` and adjusting the `padding` did the trick.
 
 ---
 ### Human Resource Machine (HRM) & CSS Diner
